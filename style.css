@@ -2,3 +2,7 @@ header{
 background-color: #21bd2e;
 color: white;
 }
+
+.cabeçalho {
+    align-items: center;
+}
