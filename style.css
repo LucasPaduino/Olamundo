@@ -8,3 +8,7 @@ justify-content: space-around;
 .cabeçalho-imagem {
     width: 20%;
 }
+
+.cabeçalh-lista-item{
+    display: inline-block;
+}
